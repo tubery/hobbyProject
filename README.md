@@ -24,6 +24,9 @@ Website to display show my favourites games and why they are.
 
 ## Planning
 
+I've always loved video games, and my list changes as new games come out. Since
+I've never had a concrete list, this is an excellent time to make one.
+
 First, I aim to complete freecodecamp responsive design and javascript
 algorithms data structures and learn the DOM using the resources tab on the
 project page to grasp the fundamentals better.
@@ -31,6 +34,9 @@ project page to grasp the fundamentals better.
 Since there is a list of requirements, I decided to create a mockup of the
 website, which would cover all requirements. This should help save time and
 avoid rewriting a large amount of code.
+
+Unfortunately, the deadline is drawing closer, and my spare time has not allowed
+me to work on the project much, so I will have to learn as I go.
 
 ## Building
 
