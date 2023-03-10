@@ -40,15 +40,18 @@ me to work on the project much, so I will have to learn as I go.
 
 ## Building
 
-1. Get HTML Set up
+1. Get HTML Set up - Completed, A basic structure has been put in place
 
-2. Implement JavaScript
+2. Put content in
 
-3. Style
+3. Implement JavaScript - Completed, Added basic timer which updates every
+   second
 
-4. Responsiveness
+4. Style
 
-5. Test
+5. Responsiveness
+
+6. Test
 
 ## Debugging
 
