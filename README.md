@@ -38,11 +38,14 @@ avoid rewriting a large amount of code.
 Unfortunately, the deadline is drawing closer, and my spare time has not allowed
 me to work on the project much, so I will have to learn as I go.
 
+Writing content for the page is much harder than I anticipated. Deciding whether
+or not to write too much or too little.
+
 ## Building
 
 1. Get HTML Set up - Completed, A basic structure has been put in place
 
-2. Put content in
+2. Put content in - Draft implemented
 
 3. Implement JavaScript - Completed, Added basic timer which updates every
    second
