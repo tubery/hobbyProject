@@ -1,4 +1,4 @@
-/* Reset */
+/* Reset and Base styles */
 * {
 	margin: 0;
 	padding: 0;
@@ -6,12 +6,105 @@
 }
 
 body {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 18px;
+	font-family: "Gotham", sans-serif;
+	font-size: 20px;
 	line-height: 1.5;
-	padding: 2rem;
+	background-color: #fff8dc;
+	color: #333;
 }
 
+h1,
+h2,
+h3 {
+	color: #800000;
+}
+
+ul {
+	padding: 1rem;
+}
+
+ul li {
+	/* list-style: none; */
+	font-size: 1.1rem;
+	margin: 1rem 1rem;
+}
+
+/* Utility classes */
 .text-center {
 	text-align: center;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+/* Header section */
+#header {
+	padding: 1rem 1rem;
+}
+
+/* About section */
+#about {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin: 1rem 0;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	/* align-items: center; */
+	justify-content: center;
+	max-width: 900px;
+	padding: 1rem;
+	gap: 2rem;
+}
+
+#current-date,
+#current-time {
+	letter-spacing: 5px;
+}
+
+.warning {
+	/* background-color: lightgrey; */
+	padding: 2rem;
+	background-color: #fff8dc;
+	background-image: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23800000' fill-opacity='0.15' fill-rule='evenodd'%3E%3Cpath d='M0 40L40 0H20L0 20M40 40V20L20 40'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+/* Game ranking section */
+#game-ranking {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 5rem;
+	margin: 5rem 0;
+	padding: 1rem;
+}
+
+.game-card {
+	max-width: 900px;
+	display: flex;
+	flex-direction: column;
+	gap: 1.5rem;
+}
+
+.game-cover {
+	width: 100%;
+	border: 5px solid #800000;
+	border-radius: 0.5rem;
+}
+
+.game-award {
+	color: #333;
+}
+
+/* Footer section */
+#footer {
+	border-top: 1px solid #333;
+	margin-top: 4rem;
+	padding: 2rem 0;
 }

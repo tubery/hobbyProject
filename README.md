@@ -41,6 +41,15 @@ me to work on the project much, so I will have to learn as I go.
 Writing content for the page is much harder than I anticipated. Deciding whether
 or not to write too much or too little.
 
+Usually I create websites in black and white due to my love for simplicity and
+boringness howver I decided to add some colour. contrast checker passes tests
+
+Images are my bane. These things always take a long time to configure for me I
+need a better understanding. Do I require all images to be the same resolution
+and size. Or is there a way to scale all images into a consistant scale. Should
+I crop images instead of searching for the perfect image? Maybe I should learn
+illustrator, photoshop.
+
 ## Building
 
 1. Get HTML Set up - Completed, A basic structure has been put in place
