@@ -19,6 +19,16 @@ h3 {
 	color: #800000;
 }
 
+a {
+	color: inherit;
+	display: inline-block;
+	padding: 0.2rem;
+}
+
+svg {
+	width: 25px;
+}
+
 ul {
 	padding: 1rem;
 }
@@ -36,6 +46,15 @@ ul li {
 
 .bold {
 	font-weight: bold;
+}
+
+.links {
+	/* text-decoration: underline; */
+}
+
+.links:hover {
+	cursor: pointer;
+	text-decoration: underline;
 }
 
 /* Header section */
